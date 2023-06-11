@@ -98,3 +98,17 @@ Test samples are placed in `./MiniSQL/test/`.
 ## Screenshots
 
 ![Screenshot](images/Screenshot.png)
+
+## Contributors
+
+- [尤锦江 (Jinjiang You)](https://yjjfish.github.io/)
+
+  Interface Design, Index Manager, Buffer Manager, Record Manager, GUI
+
+- 张之昀
+
+  Interpreter, API, Catalog Manager
+
+- 周宇鑫
+
+  Record Manager, Report
